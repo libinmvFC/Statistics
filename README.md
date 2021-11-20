@@ -1,3 +1,3 @@
 # Statistics
 
-Contains the coding solutions of Hackerrank 30 Day Statistics Challenge
+Contains the coding solutions of Hackerrank 10 Day Statistics Challenge
